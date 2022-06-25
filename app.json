@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "P3",
-    "slug": "P3",
+    "name": "app_P3",
+    "slug": "app_P3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
